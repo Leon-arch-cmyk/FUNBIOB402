@@ -57,7 +57,7 @@ A lo largo del curso, buscamos no solo adquirir bases teóricas, sino también d
 ### Leonardo Fabrizzio Ramirez Huerta  
 ![Foto de Leonardo Fabrizzio Ramirez Huerta](images_md/image_6.png)  
 
-- *Edad:* -  
+- *Edad:* - 18 años  
 - *Hobbie:* Dibujar  
 - 📌 "Espero realizar un proyecto interesante y útil para las personas afectadas."  
 
